@@ -1,4 +1,4 @@
 window.CONFIG = {
-  API_KEY: 'sk-499c287d11714e9487c8ff56f3a37e38',
+  API_KEY: 'sk-0bd71a77e73f4a0491c27e7f99f0e0ab',
   ENABLE_DEBUG: false
 };
